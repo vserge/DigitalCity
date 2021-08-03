@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T10:06:32.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="kt5iZNgUTFyVz7VcCU8-" version="14.9.3" type="github"><diagram id="NqWfpk73c3VLZOA8zqiY" name="Page-1">ddG9DoMgEADgp2FXSGqdrW0XJ4fORK5Cgp5BGmmfvhqwlthOHN8dHD+EFZ27GD7ICgVoQhPhCDsRSlOasnlY5OklyzMPrVEiFG1QqxcETII+lIAxKrSI2qohxgb7HhobGTcGp7jsjjruOvAWdlA3XO/1poSVXo802/wKqpVr5/SQ+0zH1+Jwk1FygdMXsZKwwiBaH3WuAL083vouft35T/ZzMAO9/bFgDra950n0Q6x8Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-03T10:18:42.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="FppW3H07Tv1kPhJwSOv9" version="14.9.3" type="github">
+  <diagram id="NqWfpk73c3VLZOA8zqiY" name="Page-1">
+    <mxGraphModel dx="2040" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" tooltip="Wardley Mapping Canvas" id="zi9M3PT6x0vD0PKFDHq7-1">
+          <mxCell style="endArrow=none;dashed=1;html=1;strokeWidth=1;fontSize=26;strokeColor=#000000;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="135" y="805.0000000000002" as="sourcePoint" />
+              <mxPoint x="135" y="5" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-2" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;fontSize=26;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378.9999999999998" y="805.0000000000002" as="sourcePoint" />
+            <mxPoint x="378.9999999999998" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-3" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;fontSize=26;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665.9999999999998" y="805.0000000000002" as="sourcePoint" />
+            <mxPoint x="665.9999999999998" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-4" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=26;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-74" y="748.0000000000002" as="sourcePoint" />
+            <mxPoint x="-74.00000000000045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-5" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=26;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-75.00000000000023" y="748.0000000000002" as="sourcePoint" />
+            <mxPoint x="994.9999999999993" y="748.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-6" value="Зрелость:&amp;nbsp; Зарождение&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;Practice:&amp;nbsp; Novel&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&amp;nbsp; &amp;nbsp; &amp;nbsp; Unmodelled&lt;br style=&quot;font-size: 14px&quot;&gt;Knowledge: Concept" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="747" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-7" value="Зрелость: &amp;nbsp;Индивидуальное&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;производство&lt;br style=&quot;font-size: 14px&quot;&gt;Practice:&amp;nbsp; Emerging&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&amp;nbsp; &amp;nbsp; &amp;nbsp; Divergent&lt;br style=&quot;font-size: 14px&quot;&gt;Knowledge: Hypothesis" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="747" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-8" value="Зрелость:&amp;nbsp; Продукт/Аренда&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;Practice:&amp;nbsp; Good&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&amp;nbsp; &amp;nbsp; &amp;nbsp; Convergent&lt;br style=&quot;font-size: 14px&quot;&gt;Knowledge: Theory" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="747" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-9" value="Зрелость: &amp;nbsp;Массовый Товар/&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Полезность&lt;br&gt;Practice:&amp;nbsp; Best&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&amp;nbsp; &amp;nbsp; &amp;nbsp; Modelled&lt;br style=&quot;font-size: 14px&quot;&gt;Knowledge: Universally Accepted" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="676" y="747.0000000000002" width="286" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-10" value="Эволюция" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Courier New;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="963" y="757.0000000000002" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-11" value="Неизвестный" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Courier New;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-60" y="5.000000000000227" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-12" value="Индустриальный" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Courier New;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="868" y="7.000000000000227" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-13" value="Value Chain&lt;br&gt;Цепочка ценностей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Courier New;fontSize=17;fontStyle=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-201.25" y="310" width="177.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-14" value="Видимая" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Courier New;fontSize=15;fontStyle=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="55.00000000000023" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi9M3PT6x0vD0PKFDHq7-15" value="Невидимая" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontFamily=Courier New;fontSize=15;fontStyle=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="625.0000000000002" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
